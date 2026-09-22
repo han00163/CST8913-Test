@@ -6,7 +6,7 @@
 
    
 
-![image-createGithub-Repo](C:\Algonquin College\CST8913\CST8913-Test\images\image-20260921201344316.png)
+![image-createGithub-Repo](images/image-20260921201344316.png)
 
 
 
@@ -16,7 +16,7 @@
 
    
 
-   ![image-localClone](C:\Algonquin College\CST8913\CST8913-Test\images\image-20260921201824150.png)
+   ![image-localClone](images/image-20260921201824150.png)
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-![image-localFolder](C:\Algonquin College\CST8913\CST8913-Test\images\image-20260921202036665.png)
+![image-localFolder](images/image-20260921202036665.png)
 
 
 
