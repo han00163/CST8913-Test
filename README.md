@@ -6,7 +6,7 @@
 
    
 
-![image-20260921201344316](C:\Users\w2095\AppData\Roaming\Typora\typora-user-images\image-20260921201344316.png)
+![image-createGithub-Repo](C:\Algonquin College\CST8913\CST8913-Test\images\image-20260921201344316.png)
 
 
 
@@ -16,7 +16,7 @@
 
    
 
-   ![image-20260921201824150](C:\Users\w2095\AppData\Roaming\Typora\typora-user-images\image-20260921201824150.png)
+   ![image-localClone](C:\Algonquin College\CST8913\CST8913-Test\images\image-20260921201824150.png)
 
 
 
@@ -24,24 +24,8 @@
 
 
 
-![image-20260921202036665](C:\Users\w2095\AppData\Roaming\Typora\typora-user-images\image-20260921202036665.png)
+![image-localFolder](C:\Algonquin College\CST8913\CST8913-Test\images\image-20260921202036665.png)
 
 
 
-4.  **在 CST8913-Test01 下面加入一个文件， 比如 README.md。**在 Git Bash 中输入
-
-   Git add .
-
-   Git commit -m "first commit"
-
-   git push -u origin main
-
-   git status 
-
-   
-
-   
-
-   ![image-20260921202625934](C:\Users\w2095\AppData\Roaming\Typora\typora-user-images\image-20260921202625934.png)
-
-   
+4. 
